@@ -1,5 +1,7 @@
 https://codepen.io/heycaves/pen/rNMeRBR?editors=1100
 
+Questions
+
 1. What is Semantic HTML? 
     2. What is HTML used for? To build and markup front end web pages.
     3. What is an attribute and where do we put it? An attribute adds additional context to an element and is always includedd in the starter tag. 
